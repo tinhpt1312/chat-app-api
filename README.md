@@ -123,4 +123,4 @@ MIT License - see [LICENSE.md](LICENSE.md) for details
 
 Your Name - [@tinhpt1312](https://github.com/tinhpt1312) - tinhpt1312@gmail.com
 
-Project Link: [https://github.com/tinhpt1312/chat-box](https://github.com/tinhpt1312/chat-box)
+Project Link: [https://github.com/tinhpt1312/chat-box](https://github.com/tinhpt1312/chat-app-api)
